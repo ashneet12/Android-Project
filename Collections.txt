@@ -1,0 +1,10 @@
+TaskID: Each Task gets a unique ID number.
+Due Date: Records the Due dates of the task.
+Task Name: Name of the task added.
+Task Description: A brief note about the task.
+
+Task Collection:
+- TaskID (String)
+- Due Date (Date/Time)
+- Task Name (String)
+- Task Description (String)
